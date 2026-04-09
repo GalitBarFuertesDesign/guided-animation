@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 260" width="1680" height="780" fill="none">
+
+  <!-- Background -->
+  <rect width="560" height="260" fill="#FAF9F7" rx="16"/>
+
+  <!-- Row 1 -->
+
+  <!-- Card 1 -->
+  <g>
+    <rect x="16" y="16" width="160" height="105" rx="12" fill="#ffffff" stroke="#E8E5E0" stroke-width="1"/>
+    <rect x="16" y="16" width="160" height="34" rx="12" fill="#D97757"/>
+    <rect x="16" y="38" width="160" height="12" fill="#D97757"/>
+    <text x="30" y="39" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="400" fill="#ffffff" opacity="0.75">1</text>
+    <text x="100" y="39" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500" fill="#ffffff">Challenge Concept</text>
+    <text x="96" y="72" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6B6560">Sharpen the idea</text>
+    <rect x="40" y="90" width="112" height="22" rx="11" fill="#F5F0EB"/>
+    <text x="96" y="105" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500" fill="#9B8E82">CLARITY</text>
+  </g>
+
+  <!-- Arrow 1→2 -->
+  <path d="M176 68 L192 68" stroke="#D4CFC8" stroke-width="1"/>
+  <path d="M190 65 L195 68 L190 71" fill="#D4CFC8"/>
+
+  <!-- Card 2 -->
+  <g>
+    <rect x="200" y="16" width="160" height="105" rx="12" fill="#ffffff" stroke="#E8E5E0" stroke-width="1"/>
+    <rect x="200" y="16" width="160" height="34" rx="12" fill="#C4956A"/>
+    <rect x="200" y="38" width="160" height="12" fill="#C4956A"/>
+    <text x="214" y="39" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="400" fill="#ffffff" opacity="0.75">2</text>
+    <text x="284" y="39" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500" fill="#ffffff">Motion Spec</text>
+    <text x="280" y="72" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6B6560">How things move</text>
+    <rect x="224" y="90" width="112" height="22" rx="11" fill="#F5F0EB"/>
+    <text x="280" y="105" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500" fill="#9B8E82">SPEC DOC</text>
+  </g>
+
+  <!-- Arrow 2→3 -->
+  <path d="M360 68 L376 68" stroke="#D4CFC8" stroke-width="1"/>
+  <path d="M374 65 L379 68 L374 71" fill="#D4CFC8"/>
+
+  <!-- Card 3 -->
+  <g>
+    <rect x="384" y="16" width="160" height="105" rx="12" fill="#ffffff" stroke="#E8E5E0" stroke-width="1"/>
+    <rect x="384" y="16" width="160" height="34" rx="12" fill="#8B7355"/>
+    <rect x="384" y="38" width="160" height="12" fill="#8B7355"/>
+    <text x="398" y="39" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="400" fill="#ffffff" opacity="0.75">3</text>
+    <text x="468" y="39" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500" fill="#ffffff">Static Frame</text>
+    <text x="464" y="72" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6B6560">Detailed design</text>
+    <rect x="408" y="90" width="112" height="22" rx="11" fill="#F5F0EB"/>
+    <text x="464" y="105" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500" fill="#9B8E82">FOUNDATION</text>
+  </g>
+
+  <!-- Row 2 -->
+
+  <!-- Card 4 -->
+  <g>
+    <rect x="16" y="138" width="160" height="105" rx="12" fill="#ffffff" stroke="#E8E5E0" stroke-width="1"/>
+    <rect x="16" y="138" width="160" height="34" rx="12" fill="#6B917B"/>
+    <rect x="16" y="160" width="160" height="12" fill="#6B917B"/>
+    <text x="30" y="161" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="400" fill="#ffffff" opacity="0.75">4</text>
+    <text x="100" y="161" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500" fill="#ffffff">Build Order</text>
+    <text x="96" y="194" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6B6560">Storytelling order</text>
+    <rect x="40" y="212" width="112" height="22" rx="11" fill="#F5F0EB"/>
+    <text x="96" y="227" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500" fill="#9B8E82">TASK LIST</text>
+  </g>
+
+  <!-- Arrow 4→5 -->
+  <path d="M176 190 L192 190" stroke="#D4CFC8" stroke-width="1"/>
+  <path d="M190 187 L195 190 L190 193" fill="#D4CFC8"/>
+
+  <!-- Card 5 -->
+  <g>
+    <rect x="200" y="138" width="160" height="105" rx="12" fill="#ffffff" stroke="#E8E5E0" stroke-width="1"/>
+    <rect x="200" y="138" width="160" height="34" rx="12" fill="#5B7E96"/>
+    <rect x="200" y="160" width="160" height="12" fill="#5B7E96"/>
+    <text x="214" y="161" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="400" fill="#ffffff" opacity="0.75">5</text>
+    <text x="284" y="161" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500" fill="#ffffff">Build Motion</text>
+    <text x="280" y="194" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6B6560">A finished animation</text>
+    <rect x="224" y="212" width="112" height="22" rx="11" fill="#F5F0EB"/>
+    <text x="280" y="227" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500" fill="#9B8E82">ANIMATION</text>
+  </g>
+
+  <!-- Arrow 5→6 -->
+  <path d="M360 190 L376 190" stroke="#D4CFC8" stroke-width="1"/>
+  <path d="M374 187 L379 190 L374 193" fill="#D4CFC8"/>
+
+  <!-- Card 6 -->
+  <g>
+    <rect x="384" y="138" width="160" height="105" rx="12" fill="#ffffff" stroke="#E8E5E0" stroke-width="1" stroke-dasharray="4 3"/>
+    <rect x="384" y="138" width="160" height="34" rx="12" fill="#EDEBE8"/>
+    <rect x="384" y="160" width="160" height="12" fill="#EDEBE8"/>
+    <text x="398" y="161" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="400" fill="#9B8E82" opacity="0.75">6</text>
+    <text x="468" y="161" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500" fill="#6B6560">Playback Review</text>
+    <text x="464" y="194" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6B6560">Confidence it's right</text>
+    <rect x="408" y="212" width="112" height="22" rx="11" fill="#F5F0EB"/>
+    <text x="464" y="227" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500" fill="#9B8E82">CONFIRM</text>
+  </g>
+</svg>
